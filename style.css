@@ -1,10 +1,10 @@
-# body {
+body {
   background-color: light-blue;
 } 
 
 # Title {
   color: blue;
-  align: Center
+  text-align: Center
 }
 
 
